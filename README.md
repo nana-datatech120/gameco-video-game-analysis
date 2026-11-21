@@ -39,12 +39,12 @@ Based on the empirical findings, the following actionable recommendations were p
    * **Japan**: Adopt a niche strategy focused on localized **RPG development** while carefully managing capital investment due to market contraction.
 2. **Business Model Innovation**:
    * Develop a cost-effective direct digital/online sales platform (similar to Amazon) to capture broader market segments.
-   * Pivot toward mobile and digital gaming ecosystems in partnership with industry leaders like Nintendo, Namco Bandai, or Electronic Arts。
+   * Pivot toward mobile and digital gaming ecosystems in partnership with industry leaders like Nintendo, Namco Bandai, or Electronic Arts.
 
 ---
 
 ## 5. Repository Structure
 ```text
-├── data/                  # Cleaned and raw video game sales datasets (VGChartz source)
-├── reports/               # Final presentation deck (Video Games Popularity .pptx)
+├── data/                  # Cleaned and raw video game sales datasets (VGChartz dataframe)
+├── reports/               # Final presentation deck (Video Games Popularity.pptx)
 └── README.md              # Project documentation and summary      
