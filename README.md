@@ -1,7 +1,7 @@
 # Gameco Video Game Analysis （2006-2016）
 
 ## 1. Project Background & Business Objectives
-As a data analyst at **GameCo**,the objective of this project is to perform a comprehensive descriptive and diagnostic market analysis using historical global video game sales data (spanning from 2006 to 2016).
+The objective of this project is to perform a comprehensive descriptive and diagnostic market analysis using historical global video game sales data (spanning from 2006 to 2016).
 
 The insights derived from this analysis are designed to inform executive decision-making for the upcoming 2017 budget planning and marketing strategies. Key business questions addressed include:
 * **Regional Sales Trends**: How do sales figures vary across major geographic regions (North America, Europe, and Japan) over time?
